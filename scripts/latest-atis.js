@@ -17,4 +17,4 @@ document.title = "Cape Town International Airport Information " + atisid;
 var atiscontainer = document.getElementById("ATIS");
 atiscontainer.innerText = document.title + "\n" + "@ " + atiscurrent 
 + "\n" + "Expect vectoring for ILS Approach" + "\n" + "Runway " + atisrunway + " for arrivals and departures" + "\n" +
-"Transition Level " + atistrl + "\n" + "Wind " + atiswind + "\n" + "Visibility " + atisvis + "\n" + "Present Weather " + atispreswx + "\n" + "Cloud " + atisclouds + "\n" + "Temperature " + atistemp + "\n" + "Dew Point " + atisdewpoint + "\n" + "QNH " + atisqnh + "\n" + "NO SIGNIFICANT CHANGES" + "\n" + "Confirm " + document.title + " on first contact" + "\n" + "Last Updated: " + lastupdated;
+"Transition Level " + atistrl + "\n" + "Wind " + atiswind + "\n" + "Visibility " + atisvis + "\n" + "Present Weather " + atispreswx + "\n" + "Clouds " + atisclouds + "\n" + "Temperature " + atistemp + "\n" + "Dew Point " + atisdewpoint + "\n" + "QNH " + atisqnh + "\n" + "NO SIGNIFICANT CHANGES" + "\n" + "Confirm " + document.title + " on first contact" + "\n" + "Last Updated: " + lastupdated;
